@@ -23,5 +23,10 @@ include:
     snippet: studio-rpc-usb-uart
   - board: xiao_ble//zmk
     shield: anywhy_flake_right
+  - board: nice_nano@1.0.0
+    shield: anywhy_flake_dongle
+    snippet: studio-rpc-usb-uart
+  - board: xiao_ble//zmk
+    shield: anywhy_flake_peripheral_left
   - board: xiao_ble//zmk
     shield: settings_reset
