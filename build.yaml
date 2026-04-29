@@ -23,14 +23,11 @@ include:
     snippet: studio-rpc-usb-uart
   - board: xiao_ble//zmk
     shield: anywhy_flake_right
-    cmake-args: -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
   - board: nice_nano@1.0.0
     shield: anywhy_flake_dongle
     snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=y
   - board: xiao_ble//zmk
     shield: anywhy_flake_peripheral_left
-    cmake-args: -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
   - board: xiao_ble//zmk
     shield: settings_reset
   - board: nice_nano@1.0.0
