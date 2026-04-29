@@ -30,3 +30,5 @@ include:
     shield: anywhy_flake_peripheral_left
   - board: xiao_ble//zmk
     shield: settings_reset
+  - board: nice_nano@1.0.0
+    shield: settings_reset
