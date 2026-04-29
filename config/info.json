@@ -1,4 +1,6 @@
 {
+  "id": "anywhy_flake",
+  "name": "anywhy_flake",
   "keyboard_name": "Anywhy Flake",
   "manufacturer": "Anywhy",
   "url": "https://github.com/anywhy-io/flake-zmk-module",
@@ -52,5 +54,6 @@
         { "row": 4, "col": 11, "x": 12, "y": 3.25 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
