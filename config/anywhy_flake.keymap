@@ -224,10 +224,10 @@
 
         func {
             bindings = <
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
+  &kp F6   &kp F7   &kp F8         &kp F9  &kp F10    &kp PAGE_UP         &kp HOME            &kp UP_ARROW        &kp END             &kp C_VOLUME_UP
+  &kp F1   &kp F2   &kp F3         &kp F4  &kp F5     &kp PAGE_DOWN       &kp LEFT_ARROW      &kp DOWN_ARROW      &kp RIGHT_ARROW     &kp C_VOLUME_DOWN
+  &kp F11  &kp F12  &kp LS(LG(S))  &trans  &trans     &kp RA(RC(RG(N1)))  &kp RA(RC(RG(N2)))  &kp RA(RC(RG(N3)))  &kp RA(RC(RG(N4)))  &kp C_MUTE
+  &trans   &trans   &trans         &trans  &trans     &trans              &trans              &trans              &kp RA(RC(RG(N5)))  &kp RA(RC(RG(N6)))
             >;
         };
 
