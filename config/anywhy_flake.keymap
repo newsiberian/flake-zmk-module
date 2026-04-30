@@ -206,10 +206,10 @@
 
         base {
             bindings = <
-  &kp Q                &kp W            &kp E                  &kp R            &kp T              &kp Y    &kp U             &kp I               &kp O                 &kp P
-  &hml LEFT_CONTROL A  &hml LEFT_ALT S  &hml LS(LEFT_SHIFT) D  &hml LEFT_GUI F  &kp G              &kp H    &hmr RIGHT_GUI J  &hmr RIGHT_SHIFT K  &hmr RIGHT_CONTROL L  &hmr RIGHT_ALT SEMI
-  &kp Z                &lp LG(X) X      &lp LG(C) C            &lp LG(V) V      &lp LS(LG(B)) B    &kp N    &kp M             &kp COMMA           &kp DOT               &kp FSLH
-  &kp GRAVE            &kp BSLH         &lt 2 TAB              &lt 3 SPACE      &lt 1 ENTER        &kp ESC  &kp BACKSPACE     &lt 2 DELETE        &kp SQT               &kp MINUS
+  &kp Q                &kp W            &kp E                  &kp R            &kp T              &kp Y         &kp U             &kp I               &kp O                 &kp P
+  &hml LEFT_CONTROL A  &hml LEFT_ALT S  &hml LS(LEFT_SHIFT) D  &hml LEFT_GUI F  &kp G              &kp H         &hmr RIGHT_GUI J  &hmr RIGHT_SHIFT K  &hmr RIGHT_CONTROL L  &hmr RIGHT_ALT SEMI
+  &kp Z                &lp LG(X) X      &lp LG(C) C            &lp LG(V) V      &lp LS(LG(B)) B    &kp N         &kp M             &kp COMMA           &kp DOT               &kp FSLH
+  &kp GRAVE            &kp BSLH         &lt 2 TAB              &lt 3 SPACE      &lt 1 ENTER        &lt 1 ESCAPE  &kp BACKSPACE     &lt 2 DELETE        &kp SQT               &kp MINUS
             >;
         };
 
