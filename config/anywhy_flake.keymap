@@ -233,10 +233,10 @@
 
         spec_chars {
             bindings = <
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
-  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
+  &trans  &trans  &trans  &trans  &trans    &kp LBKT   &kp LPAR              &kp RPAR               &trans  &trans
+  &trans  &trans  &trans  &trans  &trans    &kp RBKT   &kp RS(LEFT_BRACKET)  &kp RS(RIGHT_BRACKET)  &trans  &trans
+  &trans  &trans  &trans  &trans  &trans    &kp EQUAL  &kp RS(COMMA)         &kp RS(DOT)            &trans  &trans
+  &trans  &trans  &trans  &trans  &trans    &trans     &trans                &trans                 &trans  &trans
             >;
         };
     };
