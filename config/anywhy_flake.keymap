@@ -215,10 +215,10 @@
 
         nums {
             bindings = <
-  &kp CAPSLOCK  &kp N7  &kp N8  &kp N9  &kp PLUS    &kp EXCL       &kp AT    &kp HASH     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-  &kp K_APP     &kp N4  &kp N5  &kp N6  &kp PIPE    &kp CARET      &kp AMPS  &kp DOLLAR   &trans            &kp SQT
-  &kp N0        &kp N1  &kp N2  &kp N3  &trans      &kp LG(SPACE)  &kp STAR  &kp PERCENT  &trans            &kp NON_US_BACKSLASH
-  &trans        &trans  &trans  &trans  &trans      &trans         &trans    &trans       &trans            &trans
+  &kp CAPSLOCK  &kp N7  &kp N8  &kp N9  &kp PLUS     &kp EXCL       &kp AT    &kp HASH     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+  &kp K_APP     &kp N4  &kp N5  &kp N6  &kp PIPE     &kp CARET      &kp AMPS  &kp DOLLAR   &trans            &kp SQT
+  &kp N0        &kp N1  &kp N2  &kp N3  &kp MINUS    &kp LG(SPACE)  &kp STAR  &kp PERCENT  &trans            &kp NON_US_BACKSLASH
+  &trans        &trans  &trans  &trans  &trans       &trans         &trans    &trans       &trans            &trans
             >;
         };
 
